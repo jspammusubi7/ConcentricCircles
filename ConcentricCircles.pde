@@ -4,7 +4,7 @@ int diam = 400;
 boolean direction = false;
 float centX, centY;
 void setup() {
- size(500, 300);
+ size(500, 500);
  frameRate(24);
  smooth();
  background(180);
